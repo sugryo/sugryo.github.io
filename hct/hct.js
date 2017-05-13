@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 const URL = '/hst';
 
 new Vue({
